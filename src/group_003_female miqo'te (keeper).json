@@ -1,0 +1,314 @@
+﻿{
+  "Version": 0,
+  "Name": "Female Miqo'te (Keeper)",
+  "Description": "Options for changing the height for this race.",
+  "Image": "",
+  "Priority": 0,
+  "Type": "Single",
+  "DefaultSettings": 0,
+  "Options": [
+    {
+      "Name": "1.040 (Default, 162cm / 5'4\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": ".2 (31cm / 1'0\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.2,
+            "SubRace": "KeeperOfTheMoon",
+            "Attribute": "FemaleMaxSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": ".5 (78cm / 2'7\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.5,
+            "SubRace": "KeeperOfTheMoon",
+            "Attribute": "FemaleMaxSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": ".7 (109cm / 3'7\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.7,
+            "SubRace": "KeeperOfTheMoon",
+            "Attribute": "FemaleMaxSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": ".8 (124cm / 4'0\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.8,
+            "SubRace": "KeeperOfTheMoon",
+            "Attribute": "FemaleMaxSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": ".9 (140cm / 4'7\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.9,
+            "SubRace": "KeeperOfTheMoon",
+            "Attribute": "FemaleMaxSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.1 (172cm / 5\"8\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.1,
+            "SubRace": "KeeperOfTheMoon",
+            "Attribute": "FemaleMaxSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.2 (187cm / 6'1\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.2,
+            "SubRace": "KeeperOfTheMoon",
+            "Attribute": "FemaleMaxSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.3 (202cm / 6'8\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.3,
+            "SubRace": "KeeperOfTheMoon",
+            "Attribute": "FemaleMaxSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.4 (218cm / 7'2\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.4,
+            "SubRace": "KeeperOfTheMoon",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.4,
+            "SubRace": "Xaela",
+            "Attribute": "FemaleMaxSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.5 (234cm / 7'8\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.5,
+            "SubRace": "KeeperOfTheMoon",
+            "Attribute": "FemaleMaxSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.6 (250cm / 8'2\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.6,
+            "SubRace": "KeeperOfTheMoon",
+            "Attribute": "FemaleMaxSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.7 (265cm / 8'8\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.7,
+            "SubRace": "KeeperOfTheMoon",
+            "Attribute": "FemaleMaxSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.8 (280cm / 9'2\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.8,
+            "SubRace": "KeeperOfTheMoon",
+            "Attribute": "FemaleMaxSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "2 (312cm / 10'3\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.0,
+            "SubRace": "KeeperOfTheMoon",
+            "Attribute": "FemaleMaxSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "2.2 (343cm / 11'3\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.2,
+            "SubRace": "KeeperOfTheMoon",
+            "Attribute": "FemaleMaxSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "2.5 (390cm / 12'9\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.5,
+            "SubRace": "KeeperOfTheMoon",
+            "Attribute": "FemaleMaxSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "3.5 (546cm / 17'11\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 3.5,
+            "SubRace": "KeeperOfTheMoon",
+            "Attribute": "FemaleMaxSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "7 (1092cm / 35'10\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 7.0,
+            "SubRace": "KeeperOfTheMoon",
+            "Attribute": "FemaleMaxSize"
+          }
+        }
+      ]
+    }
+  ]
+}

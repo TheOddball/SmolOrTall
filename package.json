@@ -1,0 +1,24 @@
+{
+  "name": "smolortall",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/TheOddball/SmolOrTall#readme",
+  "bugs": {
+    "url": "https://github.com/TheOddball/SmolOrTall/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheOddball/SmolOrTall.git"
+  },
+  "license": "MIT",
+  "author": "TheOddball",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-zip": "^6.1.0"
+  }
+}
