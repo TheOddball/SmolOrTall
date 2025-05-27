@@ -1,7 +1,7 @@
 ﻿{
   "Version": 0,
-  "Name": "Female Miqo'te (Seeker)",
-  "Description": "Options for changing the height for this race.",
+  "Name": "Female Miqo'te",
+  "Description": "Options for changing the height for both Seeker and Keeper Miqo'te.",
   "Image": "",
   "Priority": 0,
   "Type": "Single",
@@ -27,6 +27,14 @@
             "SubRace": "SeekerOfTheSun",
             "Attribute": "FemaleMaxSize"
           }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.2,
+            "SubRace": "KeeperOfTheMoon",
+            "Attribute": "FemaleMaxSize"
+          }
         }
       ]
     },
@@ -41,6 +49,14 @@
           "Manipulation": {
             "Entry": 0.5,
             "SubRace": "SeekerOfTheSun",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.5,
+            "SubRace": "KeeperOfTheMoon",
             "Attribute": "FemaleMaxSize"
           }
         }
@@ -59,6 +75,14 @@
             "SubRace": "SeekerOfTheSun",
             "Attribute": "FemaleMaxSize"
           }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.7,
+            "SubRace": "KeeperOfTheMoon",
+            "Attribute": "FemaleMaxSize"
+          }
         }
       ]
     },
@@ -73,6 +97,14 @@
           "Manipulation": {
             "Entry": 0.8,
             "SubRace": "SeekerOfTheSun",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.8,
+            "SubRace": "KeeperOfTheMoon",
             "Attribute": "FemaleMaxSize"
           }
         }
@@ -91,6 +123,14 @@
             "SubRace": "SeekerOfTheSun",
             "Attribute": "FemaleMaxSize"
           }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.9,
+            "SubRace": "KeeperOfTheMoon",
+            "Attribute": "FemaleMaxSize"
+          }
         }
       ]
     },
@@ -105,6 +145,14 @@
           "Manipulation": {
             "Entry": 1.1,
             "SubRace": "SeekerOfTheSun",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.1,
+            "SubRace": "KeeperOfTheMoon",
             "Attribute": "FemaleMaxSize"
           }
         }
@@ -123,6 +171,14 @@
             "SubRace": "SeekerOfTheSun",
             "Attribute": "FemaleMaxSize"
           }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.2,
+            "SubRace": "KeeperOfTheMoon",
+            "Attribute": "FemaleMaxSize"
+          }
         }
       ]
     },
@@ -137,6 +193,14 @@
           "Manipulation": {
             "Entry": 1.3,
             "SubRace": "SeekerOfTheSun",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.3,
+            "SubRace": "KeeperOfTheMoon",
             "Attribute": "FemaleMaxSize"
           }
         }
@@ -160,7 +224,7 @@
           "Type": "Rsp",
           "Manipulation": {
             "Entry": 1.4,
-            "SubRace": "Xaela",
+            "SubRace": "KeeperOfTheMoon",
             "Attribute": "FemaleMaxSize"
           }
         }
@@ -179,6 +243,14 @@
             "SubRace": "SeekerOfTheSun",
             "Attribute": "FemaleMaxSize"
           }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.5,
+            "SubRace": "KeeperOfTheMoon",
+            "Attribute": "FemaleMaxSize"
+          }
         }
       ]
     },
@@ -193,6 +265,14 @@
           "Manipulation": {
             "Entry": 1.6,
             "SubRace": "SeekerOfTheSun",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.6,
+            "SubRace": "KeeperOfTheMoon",
             "Attribute": "FemaleMaxSize"
           }
         }
@@ -211,6 +291,14 @@
             "SubRace": "SeekerOfTheSun",
             "Attribute": "FemaleMaxSize"
           }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.7,
+            "SubRace": "KeeperOfTheMoon",
+            "Attribute": "FemaleMaxSize"
+          }
         }
       ]
     },
@@ -225,6 +313,14 @@
           "Manipulation": {
             "Entry": 1.8,
             "SubRace": "SeekerOfTheSun",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.8,
+            "SubRace": "KeeperOfTheMoon",
             "Attribute": "FemaleMaxSize"
           }
         }
@@ -243,6 +339,14 @@
             "SubRace": "SeekerOfTheSun",
             "Attribute": "FemaleMaxSize"
           }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.0,
+            "SubRace": "KeeperOfTheMoon",
+            "Attribute": "FemaleMaxSize"
+          }
         }
       ]
     },
@@ -257,6 +361,14 @@
           "Manipulation": {
             "Entry": 2.2,
             "SubRace": "SeekerOfTheSun",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.2,
+            "SubRace": "KeeperOfTheMoon",
             "Attribute": "FemaleMaxSize"
           }
         }
@@ -275,6 +387,14 @@
             "SubRace": "SeekerOfTheSun",
             "Attribute": "FemaleMaxSize"
           }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.5,
+            "SubRace": "KeeperOfTheMoon",
+            "Attribute": "FemaleMaxSize"
+          }
         }
       ]
     },
@@ -291,6 +411,14 @@
             "SubRace": "SeekerOfTheSun",
             "Attribute": "FemaleMaxSize"
           }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 3.5,
+            "SubRace": "KeeperOfTheMoon",
+            "Attribute": "FemaleMaxSize"
+          }
         }
       ]
     },
@@ -305,6 +433,14 @@
           "Manipulation": {
             "Entry": 7.0,
             "SubRace": "SeekerOfTheSun",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 7.0,
+            "SubRace": "KeeperOfTheMoon",
             "Attribute": "FemaleMaxSize"
           }
         }

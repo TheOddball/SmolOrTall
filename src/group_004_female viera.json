@@ -1,7 +1,7 @@
 ﻿{
   "Version": 0,
-  "Name": "Female Viera (Rava)",
-  "Description": "Options for changing the height for this race.",
+  "Name": "Female Viera",
+  "Description": "Options for changing the height for both Rava and Veena Viera.",
   "Image": "",
   "Priority": 0,
   "Type": "Single",
@@ -27,6 +27,14 @@
             "SubRace": "Rava",
             "Attribute": "FemaleMaxSize"
           }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.2,
+            "SubRace": "Veena",
+            "Attribute": "FemaleMaxSize"
+          }
         }
       ]
     },
@@ -41,6 +49,14 @@
           "Manipulation": {
             "Entry": 0.5,
             "SubRace": "Rava",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.5,
+            "SubRace": "Veena",
             "Attribute": "FemaleMaxSize"
           }
         }
@@ -59,6 +75,14 @@
             "SubRace": "Rava",
             "Attribute": "FemaleMaxSize"
           }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.7,
+            "SubRace": "Veena",
+            "Attribute": "FemaleMaxSize"
+          }
         }
       ]
     },
@@ -73,6 +97,14 @@
           "Manipulation": {
             "Entry": 0.8,
             "SubRace": "Rava",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.8,
+            "SubRace": "Veena",
             "Attribute": "FemaleMaxSize"
           }
         }
@@ -91,6 +123,14 @@
             "SubRace": "Rava",
             "Attribute": "FemaleMaxSize"
           }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.9,
+            "SubRace": "Veena",
+            "Attribute": "FemaleMaxSize"
+          }
         }
       ]
     },
@@ -105,6 +145,14 @@
           "Manipulation": {
             "Entry": 1.1,
             "SubRace": "Rava",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.1,
+            "SubRace": "Veena",
             "Attribute": "FemaleMaxSize"
           }
         }
@@ -123,6 +171,14 @@
             "SubRace": "Rava",
             "Attribute": "FemaleMaxSize"
           }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.2,
+            "SubRace": "Veena",
+            "Attribute": "FemaleMaxSize"
+          }
         }
       ]
     },
@@ -137,6 +193,14 @@
           "Manipulation": {
             "Entry": 1.3,
             "SubRace": "Rava",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.3,
+            "SubRace": "Veena",
             "Attribute": "FemaleMaxSize"
           }
         }
@@ -155,6 +219,14 @@
             "SubRace": "Rava",
             "Attribute": "FemaleMaxSize"
           }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.4,
+            "SubRace": "Veena",
+            "Attribute": "FemaleMaxSize"
+          }
         }
       ]
     },
@@ -169,6 +241,14 @@
           "Manipulation": {
             "Entry": 1.5,
             "SubRace": "Rava",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.5,
+            "SubRace": "Veena",
             "Attribute": "FemaleMaxSize"
           }
         }
@@ -187,6 +267,14 @@
             "SubRace": "Rava",
             "Attribute": "FemaleMaxSize"
           }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.6,
+            "SubRace": "Veena",
+            "Attribute": "FemaleMaxSize"
+          }
         }
       ]
     },
@@ -201,6 +289,14 @@
           "Manipulation": {
             "Entry": 1.7,
             "SubRace": "Rava",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.7,
+            "SubRace": "Veena",
             "Attribute": "FemaleMaxSize"
           }
         }
@@ -219,6 +315,14 @@
             "SubRace": "Rava",
             "Attribute": "FemaleMaxSize"
           }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.8,
+            "SubRace": "Veena",
+            "Attribute": "FemaleMaxSize"
+          }
         }
       ]
     },
@@ -233,6 +337,14 @@
           "Manipulation": {
             "Entry": 2.0,
             "SubRace": "Rava",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.0,
+            "SubRace": "Veena",
             "Attribute": "FemaleMaxSize"
           }
         }
@@ -251,6 +363,14 @@
             "SubRace": "Rava",
             "Attribute": "FemaleMaxSize"
           }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.2,
+            "SubRace": "Veena",
+            "Attribute": "FemaleMaxSize"
+          }
         }
       ]
     },
@@ -265,6 +385,14 @@
           "Manipulation": {
             "Entry": 2.5,
             "SubRace": "Rava",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.5,
+            "SubRace": "Veena",
             "Attribute": "FemaleMaxSize"
           }
         }
@@ -283,6 +411,14 @@
             "SubRace": "Rava",
             "Attribute": "FemaleMaxSize"
           }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 3.5,
+            "SubRace": "Veena",
+            "Attribute": "FemaleMaxSize"
+          }
         }
       ]
     },
@@ -297,6 +433,14 @@
           "Manipulation": {
             "Entry": 7.0,
             "SubRace": "Rava",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 7.0,
+            "SubRace": "Veena",
             "Attribute": "FemaleMaxSize"
           }
         }

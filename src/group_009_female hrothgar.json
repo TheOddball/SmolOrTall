@@ -1,14 +1,15 @@
-﻿{
+﻿
+{
   "Version": 0,
-  "Name": "Female Elezen (Duskwight)",
-  "Description": "Options for changing the height for this race.",
+  "Name": "Female Hrothgar",
+  "Description": "Options for changing the height for both Helion and Lost Hrothgar.",
   "Image": "",
   "Priority": 0,
   "Type": "Single",
   "DefaultSettings": 0,
   "Options": [
     {
-      "Name": "1.039 (Default, 198cm / 6'6\")",
+      "Name": "1.040 (Default, 199cm / 5'4\")",
       "Description": "",
       "Files": {},
       "FileSwaps": {},
@@ -24,7 +25,15 @@
           "Type": "Rsp",
           "Manipulation": {
             "Entry": 0.2,
-            "SubRace": "Duskwight",
+            "SubRace": "Helion",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.2,
+            "SubRace": "Lost",
             "Attribute": "FemaleMaxSize"
           }
         }
@@ -40,14 +49,22 @@
           "Type": "Rsp",
           "Manipulation": {
             "Entry": 0.5,
-            "SubRace": "Duskwight",
+            "SubRace": "Helion",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.5,
+            "SubRace": "Lost",
             "Attribute": "FemaleMaxSize"
           }
         }
       ]
     },
     {
-      "Name": ".7 (133cm / 4'5\")",
+      "Name": ".7 (134cm / 4'5\")",
       "Description": "",
       "Files": {},
       "FileSwaps": {},
@@ -56,14 +73,22 @@
           "Type": "Rsp",
           "Manipulation": {
             "Entry": 0.7,
-            "SubRace": "Duskwight",
+            "SubRace": "Helion",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.7,
+            "SubRace": "Lost",
             "Attribute": "FemaleMaxSize"
           }
         }
       ]
     },
     {
-      "Name": ".8 (152cm / 5'0\")",
+      "Name": ".8 (153cm / 5'0\")",
       "Description": "",
       "Files": {},
       "FileSwaps": {},
@@ -72,7 +97,15 @@
           "Type": "Rsp",
           "Manipulation": {
             "Entry": 0.8,
-            "SubRace": "Duskwight",
+            "SubRace": "Helion",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.8,
+            "SubRace": "Lost",
             "Attribute": "FemaleMaxSize"
           }
         }
@@ -88,14 +121,22 @@
           "Type": "Rsp",
           "Manipulation": {
             "Entry": 0.9,
-            "SubRace": "Duskwight",
+            "SubRace": "Helion",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.9,
+            "SubRace": "Lost",
             "Attribute": "FemaleMaxSize"
           }
         }
       ]
     },
     {
-      "Name": "1.1 (210cm / 6\"11\")",
+      "Name": "1.1 (210cm / 6'11\")",
       "Description": "",
       "Files": {},
       "FileSwaps": {},
@@ -104,14 +145,22 @@
           "Type": "Rsp",
           "Manipulation": {
             "Entry": 1.1,
-            "SubRace": "Duskwight",
+            "SubRace": "Helion",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.1,
+            "SubRace": "Lost",
             "Attribute": "FemaleMaxSize"
           }
         }
       ]
     },
     {
-      "Name": "1.2 (229cm / 7'6\")",
+      "Name": "1.2 (230cm / 7'7\")",
       "Description": "",
       "Files": {},
       "FileSwaps": {},
@@ -120,14 +169,22 @@
           "Type": "Rsp",
           "Manipulation": {
             "Entry": 1.2,
-            "SubRace": "Duskwight",
+            "SubRace": "Helion",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.2,
+            "SubRace": "Lost",
             "Attribute": "FemaleMaxSize"
           }
         }
       ]
     },
     {
-      "Name": "1.3 (248cm / 8'2\")",
+      "Name": "1.3 (249cm / 8'2\")",
       "Description": "",
       "Files": {},
       "FileSwaps": {},
@@ -136,14 +193,22 @@
           "Type": "Rsp",
           "Manipulation": {
             "Entry": 1.3,
-            "SubRace": "Duskwight",
+            "SubRace": "Helion",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.3,
+            "SubRace": "Lost",
             "Attribute": "FemaleMaxSize"
           }
         }
       ]
     },
     {
-      "Name": "1.4 (267cm / 8'9\")",
+      "Name": "1.4 (268cm / 8'10\")",
       "Description": "",
       "Files": {},
       "FileSwaps": {},
@@ -152,14 +217,22 @@
           "Type": "Rsp",
           "Manipulation": {
             "Entry": 1.4,
-            "SubRace": "Duskwight",
+            "SubRace": "Helion",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.4,
+            "SubRace": "Lost",
             "Attribute": "FemaleMaxSize"
           }
         }
       ]
     },
     {
-      "Name": "1.5 (286cm / 9'5\")",
+      "Name": "1.5 (287cm / 9'5\")",
       "Description": "",
       "Files": {},
       "FileSwaps": {},
@@ -168,14 +241,22 @@
           "Type": "Rsp",
           "Manipulation": {
             "Entry": 1.5,
-            "SubRace": "Duskwight",
+            "SubRace": "Helion",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.5,
+            "SubRace": "Lost",
             "Attribute": "FemaleMaxSize"
           }
         }
       ]
     },
     {
-      "Name": "1.6 (305cm / 10')",
+      "Name": "1.6 (306cm / 10'1\")",
       "Description": "",
       "Files": {},
       "FileSwaps": {},
@@ -184,14 +265,22 @@
           "Type": "Rsp",
           "Manipulation": {
             "Entry": 1.6,
-            "SubRace": "Duskwight",
+            "SubRace": "Helion",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.6,
+            "SubRace": "Lost",
             "Attribute": "FemaleMaxSize"
           }
         }
       ]
     },
     {
-      "Name": "1.7 (324cm / 10'8\")",
+      "Name": "1.7 (325cm / 10'8\")",
       "Description": "",
       "Files": {},
       "FileSwaps": {},
@@ -200,14 +289,22 @@
           "Type": "Rsp",
           "Manipulation": {
             "Entry": 1.7,
-            "SubRace": "Duskwight",
+            "SubRace": "Helion",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.7,
+            "SubRace": "Lost",
             "Attribute": "FemaleMaxSize"
           }
         }
       ]
     },
     {
-      "Name": "1.8 (343cm / 11'3\")",
+      "Name": "1.8 (345cm / 11'4\")",
       "Description": "",
       "Files": {},
       "FileSwaps": {},
@@ -216,14 +313,22 @@
           "Type": "Rsp",
           "Manipulation": {
             "Entry": 1.8,
-            "SubRace": "Duskwight",
+            "SubRace": "Helion",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.8,
+            "SubRace": "Lost",
             "Attribute": "FemaleMaxSize"
           }
         }
       ]
     },
     {
-      "Name": "2 (382cm / 12'6\")",
+      "Name": "2 (383cm / 12'7\")",
       "Description": "",
       "Files": {},
       "FileSwaps": {},
@@ -232,14 +337,22 @@
           "Type": "Rsp",
           "Manipulation": {
             "Entry": 2.0,
-            "SubRace": "Duskwight",
+            "SubRace": "Helion",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.0,
+            "SubRace": "Lost",
             "Attribute": "FemaleMaxSize"
           }
         }
       ]
     },
     {
-      "Name": "2.2 (420cm / 13'9\")",
+      "Name": "2.2 (421cm / 13'10\")",
       "Description": "",
       "Files": {},
       "FileSwaps": {},
@@ -248,14 +361,22 @@
           "Type": "Rsp",
           "Manipulation": {
             "Entry": 2.2,
-            "SubRace": "Duskwight",
+            "SubRace": "Helion",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.2,
+            "SubRace": "Lost",
             "Attribute": "FemaleMaxSize"
           }
         }
       ]
     },
     {
-      "Name": "2.5 (477cm / 15'8\")",
+      "Name": "2.5 (479cm / 15'9\")",
       "Description": "",
       "Files": {},
       "FileSwaps": {},
@@ -264,14 +385,22 @@
           "Type": "Rsp",
           "Manipulation": {
             "Entry": 2.5,
-            "SubRace": "Duskwight",
+            "SubRace": "Helion",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.5,
+            "SubRace": "Lost",
             "Attribute": "FemaleMaxSize"
           }
         }
       ]
     },
     {
-      "Name": "3.5 (668cm / 21'11\")",
+      "Name": "3.5 (670cm / 22')",
       "Description": "",
       "Files": {},
       "FileSwaps": {},
@@ -280,14 +409,22 @@
           "Type": "Rsp",
           "Manipulation": {
             "Entry": 3.5,
-            "SubRace": "Duskwight",
+            "SubRace": "Helion",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 3.5,
+            "SubRace": "Lost",
             "Attribute": "FemaleMaxSize"
           }
         }
       ]
     },
     {
-      "Name": "7 (1336cm / 43'10\")",
+      "Name": "7 (1341cm / 44')",
       "Description": "",
       "Files": {},
       "FileSwaps": {},
@@ -296,7 +433,15 @@
           "Type": "Rsp",
           "Manipulation": {
             "Entry": 7.0,
-            "SubRace": "Duskwight",
+            "SubRace": "Helion",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 7.0,
+            "SubRace": "Lost",
             "Attribute": "FemaleMaxSize"
           }
         }
