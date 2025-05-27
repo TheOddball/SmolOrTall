@@ -1,0 +1,19 @@
+{
+  "Version": 0,
+  "Name": "Thank You for Downloading my Mod <3",
+  "Description": "",
+  "Image": "",
+  "Priority": 1,
+  "Type": "Multi",
+  "DefaultSettings": 1,
+  "Options": [
+    {
+      "Name": "Go on, be smol, be tall! You're beautiful no matter how tall you are.",
+      "Description": "",
+      "Priority": 0,
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": []
+    }
+  ]
+}

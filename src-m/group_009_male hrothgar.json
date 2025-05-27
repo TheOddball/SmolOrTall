@@ -1,0 +1,738 @@
+﻿{
+  "Version": 0,
+  "Name": "Male Hrothgar",
+  "Description": "Options for changing the height for both Helion and Lost Hrothgar.",
+  "Image": "",
+  "Priority": 0,
+  "Type": "Single",
+  "DefaultSettings": 0,
+  "Options": [
+    {
+      "Name": "0.968 (Default, 213cm / 7'0\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": ".2 (40cm / 1'4\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.2,
+            "SubRace": "Helion",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.2,
+            "SubRace": "Lost",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.2,
+            "SubRace": "Helion",
+            "Attribute": "MaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.2,
+            "SubRace": "Lost",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": ".5 (100cm / 3'3\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.5,
+            "SubRace": "Helion",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.5,
+            "SubRace": "Lost",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.5,
+            "SubRace": "Helion",
+            "Attribute": "MaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.5,
+            "SubRace": "Lost",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": ".7 (140cm / 4'7\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.7,
+            "SubRace": "Helion",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.7,
+            "SubRace": "Lost",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.7,
+            "SubRace": "Helion",
+            "Attribute": "MaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.7,
+            "SubRace": "Lost",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": ".8 (160cm / 5'3\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.8,
+            "SubRace": "Helion",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.8,
+            "SubRace": "Lost",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.8,
+            "SubRace": "Helion",
+            "Attribute": "MaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.8,
+            "SubRace": "Lost",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": ".9 (180cm / 5'11\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.9,
+            "SubRace": "Helion",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.9,
+            "SubRace": "Lost",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.9,
+            "SubRace": "Helion",
+            "Attribute": "MaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.9,
+            "SubRace": "Lost",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.1 (220cm / 7'3\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.1,
+            "SubRace": "Helion",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.1,
+            "SubRace": "Lost",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.1,
+            "SubRace": "Helion",
+            "Attribute": "MaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.1,
+            "SubRace": "Lost",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.2 (240cm / 7'10\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.2,
+            "SubRace": "Helion",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.2,
+            "SubRace": "Lost",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.2,
+            "SubRace": "Helion",
+            "Attribute": "MaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.2,
+            "SubRace": "Lost",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.3 (260cm / 8'6\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.3,
+            "SubRace": "Helion",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.3,
+            "SubRace": "Lost",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.3,
+            "SubRace": "Helion",
+            "Attribute": "MaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.3,
+            "SubRace": "Lost",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.4 (280cm / 9'2\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.4,
+            "SubRace": "Helion",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.4,
+            "SubRace": "Lost",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.4,
+            "SubRace": "Helion",
+            "Attribute": "MaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.4,
+            "SubRace": "Lost",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.5 (300cm / 9'10\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.5,
+            "SubRace": "Helion",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.5,
+            "SubRace": "Lost",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.5,
+            "SubRace": "Helion",
+            "Attribute": "MaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.5,
+            "SubRace": "Lost",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.6 (320cm / 10'6\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.6,
+            "SubRace": "Helion",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.6,
+            "SubRace": "Lost",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.6,
+            "SubRace": "Helion",
+            "Attribute": "MaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.6,
+            "SubRace": "Lost",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.7 (340cm / 11'2\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.7,
+            "SubRace": "Helion",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.7,
+            "SubRace": "Lost",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.7,
+            "SubRace": "Helion",
+            "Attribute": "MaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.7,
+            "SubRace": "Lost",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.8 (360cm / 11'10\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.8,
+            "SubRace": "Helion",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.8,
+            "SubRace": "Lost",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.8,
+            "SubRace": "Helion",
+            "Attribute": "MaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.8,
+            "SubRace": "Lost",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "2 (400cm / 13'1\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.0,
+            "SubRace": "Helion",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.0,
+            "SubRace": "Lost",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.0,
+            "SubRace": "Helion",
+            "Attribute": "MaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.0,
+            "SubRace": "Lost",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "2.2 (440cm / 14'5\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.2,
+            "SubRace": "Helion",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.2,
+            "SubRace": "Lost",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.2,
+            "SubRace": "Helion",
+            "Attribute": "MaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.2,
+            "SubRace": "Lost",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "2.5 (500cm / 16'5\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.5,
+            "SubRace": "Helion",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.5,
+            "SubRace": "Lost",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.5,
+            "SubRace": "Helion",
+            "Attribute": "MaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.5,
+            "SubRace": "Lost",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "3.5 (700cm / 23'0\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 3.5,
+            "SubRace": "Helion",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 3.5,
+            "SubRace": "Lost",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 3.5,
+            "SubRace": "Helion",
+            "Attribute": "MaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 3.5,
+            "SubRace": "Lost",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "7 (1400cm / 45'11\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 7.0,
+            "SubRace": "Helion",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 7.0,
+            "SubRace": "Lost",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 7.0,
+            "SubRace": "Helion",
+            "Attribute": "MaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 7.0,
+            "SubRace": "Lost",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    }
+  ]
+}
