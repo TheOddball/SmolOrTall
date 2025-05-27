@@ -1,0 +1,738 @@
+﻿{
+  "Version": 0,
+  "Name": "Female Roegadyn",
+  "Description": "Options for changing the height for both Seawolf and Hellsguard Roegadyn.",
+  "Image": "",
+  "Priority": 0,
+  "Type": "Single",
+  "DefaultSettings": 0,
+  "Options": [
+    {
+      "Name": "1.160 (Default, 222cm / 7'4\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": ".2 (38cm / 1'3\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.2,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.2,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.2,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.2,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": ".5 (96cm / 3'2\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.5,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.5,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.5,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.5,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": ".7 (134cm / 4'5\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.7,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.7,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.7,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.7,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": ".8 (153cm / 5')",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.8,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.8,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.8,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.8,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": ".9 (172cm / 5'8\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.9,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.9,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.9,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.9,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.1 (211cm / 6\"11\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.1,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.1,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.1,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.1,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.2 (230cm / 7'7\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.2,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.2,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.2,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.2,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.3 (249cm / 8'2\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.3,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.3,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.3,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.3,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.4 (268cm / 8'10\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.4,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.4,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.4,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.4,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.5 (288cm / 9'5\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.5,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.5,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.5,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.5,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.6 (307cm / 10'1\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.6,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.6,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.6,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.6,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.7 (326cm / 10'8\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.7,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.7,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.7,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.7,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.8 (345cm / 11'4\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.8,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.8,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.8,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.8,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "2 (384cm / 12'7\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.0,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.0,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.0,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.0,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "2.2 (422cm / 13'10\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.2,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.2,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.2,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.2,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "2.5 (480cm / 15'9\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.5,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.5,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.5,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.5,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "3.5 (672cm / 22'1\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 3.5,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 3.5,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 3.5,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 3.5,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "7 (1343cm / 44'1\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 7.0,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 7.0,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 7.0,
+            "SubRace": "Seawolf",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 7.0,
+            "SubRace": "Hellsguard",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    }
+  ]
+}
