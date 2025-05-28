@@ -1,0 +1,738 @@
+{
+  "Version": 0,
+  "Name": "Female Lalafell",
+  "Description": "Options for changing the height for both Dunesfolk and Plainsfolk Lalafell.",
+  "Image": "",
+  "Priority": 0,
+  "Type": "Single",
+  "DefaultSettings": 0,
+  "Options": [
+    {
+      "Name": "1.055 (Default, 97.1cm / 3'2\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": ".2 (20cm / 0'8\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.2,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.2,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.2,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.2,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": ".5 (50cm / 1'8\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.5,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.5,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.5,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.5,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": ".7 (70cm / 2'4\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.7,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.7,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.7,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.7,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": ".8 (80cm / 2'7\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.8,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.8,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.8,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.8,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": ".9 (90cm / 2'11\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.9,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.9,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.9,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.9,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.1 (110cm / 3'7\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.1,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.1,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.1,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.1,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.2 (120cm / 3'11\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.2,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.2,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.2,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.2,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.3 (130cm / 4'3\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.3,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.3,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.3,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.3,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.4 (140cm / 4'7\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.4,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.4,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.4,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.4,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.5 (150cm / 4'11\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.5,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.5,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.5,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.5,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.6 (160cm / 5'3\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.6,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.6,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.6,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.6,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.7 (170cm / 5'7\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.7,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.7,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.7,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.7,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.8 (180cm / 5'11\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.8,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.8,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.8,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.8,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "2 (200cm / 6'7\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.0,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.0,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.0,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.0,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "2.2 (220cm / 7'3\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.2,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.2,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.2,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.2,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "2.5 (250cm / 8'2\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.5,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.5,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.5,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.5,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "3.5 (350cm / 11'6\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 3.5,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 3.5,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 3.5,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 3.5,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "7 (700cm / 23'0\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 7.0,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 7.0,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 7.0,
+            "SubRace": "Dunesfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 7.0,
+            "SubRace": "Plainsfolk",
+            "Attribute": "FemaleMinSize"
+          }
+        }
+      ]
+    }
+  ]
+} 
