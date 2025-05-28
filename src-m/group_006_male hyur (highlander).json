@@ -1,0 +1,450 @@
+﻿{
+  "Version": 0,
+  "Name": "Male Hyur (Highlander)",
+  "Description": "Options for changing the height for this race.",
+  "Image": "",
+  "Priority": 0,
+  "Type": "Single",
+  "DefaultSettings": 0,
+  "Options": [
+    {
+      "Name": "1.144 (Default, 200.2cm / 6'7\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": ".2 (35cm / 1'2\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.2,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.2,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": ".5 (87cm / 2'10\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.5,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.5,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": ".7 (122cm / 4'0\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.7,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.7,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": ".8 (140cm / 4'7\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.8,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.8,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": ".9 (157cm / 5'2\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.9,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 0.9,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.1 (192cm / 6'4\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.1,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.1,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.2 (210cm / 6'11\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.2,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.2,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.3 (227cm / 7'5\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.3,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.3,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.4 (245cm / 8'0\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.4,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.4,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.5 (262cm / 8'7\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.5,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.5,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.6 (280cm / 9'2\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.6,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.6,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.7 (297cm / 9'9\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.7,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.7,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "1.8 (315cm / 10'4\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.8,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 1.8,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "2 (350cm / 11'6\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.0,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.0,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "2.2 (385cm / 12'8\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.2,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.2,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "2.5 (437cm / 14'4\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.5,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 2.5,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "3.5 (612cm / 20'1\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 3.5,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 3.5,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "7 (1224cm / 40'2\")",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": [
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 7.0,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMaxSize"
+          }
+        },
+        {
+          "Type": "Rsp",
+          "Manipulation": {
+            "Entry": 7.0,
+            "SubRace": "Highlander",
+            "Attribute": "MaleMinSize"
+          }
+        }
+      ]
+    }
+  ]
+}
